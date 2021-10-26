@@ -65,7 +65,7 @@
 
 .header-background::before {    
       content: "";
-      background-image: url('./background.jpg');
+      background-image: url('/images/background.jpg');
       background-size: cover;
       position: absolute;
       top: 0px;
